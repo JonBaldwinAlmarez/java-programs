@@ -107,7 +107,7 @@ public class MP2_Almarez_JonBaldwin {
         public void setnetPay(double basic_salary){
             this.netPay = basic_salary - SSS + Pag_ibig + Philhealth;
         }
-        
+
         // Getters
         
         public double getGross_income(){
